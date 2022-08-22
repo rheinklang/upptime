@@ -34,6 +34,7 @@ status-website:
   name: Status / Uptime
   introTitle: "Eine Übersicht über die Stati unserer Services."
   introMessage: Die dargestellten Daten werden in **echtzeit** aus unserem [GitHub repository](https://github.com/rheinklang/uptime) aggregiert.
+  customHeadHtml: "<script>var _mtm = window._mtm = window._mtm || [];_mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];g.async=true; g.src='https://analytics.rheinklang.events/js/container_YSfneGKs.js'; s.parentNode.insertBefore(g,s);</script>"
   navbar:
     - title: Status
       href: /
