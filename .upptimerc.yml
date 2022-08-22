@@ -13,12 +13,16 @@ workflowSchedule:
 sites:
   - name: Website
     url: https://www.rheinklang.events
+    icon: https://www.rheinklang.events/favicon-corporate.png
   - name: Bio Links
     url: https://bio.rheinklang.events/links
+    icon: https://www.switchy.io/assets/favicons/favicon.ico
   - name: CMS
     url: $SITE_CMS
+    icon: https://getcockpit.com/favicon.png
   - name: Accounting
     url: $SITE_ACCOUNTING
+    icon: https://assets.akaunting.com/site/img/logo/akaunting-logo.ico
 
 status-website:
   theme: night
