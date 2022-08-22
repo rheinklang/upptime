@@ -23,6 +23,9 @@ sites:
   - name: Accounting
     url: $SITE_ACCOUNTING
     icon: https://assets.akaunting.com/site/img/logo/akaunting-logo.ico
+  - name: ERP
+    url: $SITE_ERP
+    icon: https://www.dolibarr.org/favicon.ico
 
 status-website:
   theme: night
