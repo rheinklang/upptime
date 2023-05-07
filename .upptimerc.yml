@@ -12,20 +12,30 @@ workflowSchedule:
 
 sites:
   - name: Website
+    method: GET
     url: https://rheinklang.events
     icon: https://rheinklang.events/favicon.png
+    maxResponseTime: 1200
   - name: Bio Links
+    method: GET
     url: https://bio.rheinklang.events/links
     icon: https://www.switchy.io/assets/favicons/favicon.ico
+    maxResponseTime: 1200
   - name: CMS
-    url: $SITE_CMS
+    method: GET
+    url: $CMS_HOST/api/singletons/get/ping?token=$CMS_API_TOKEN
     icon: https://getcockpit.com/favicon.png
+    maxResponseTime: 2000
   - name: Accounting
+    method: GET
     url: $SITE_ACCOUNTING
     icon: https://assets.akaunting.com/site/img/logo/akaunting-logo.ico
+    maxResponseTime: 3000
   - name: Kanboard
+    method: GET
     url: $SITE_KANBOARD
     icon: https://kanboard.rheinklang.events/assets/img/favicon.png
+    maxResponseTime: 2000
 
 status-website:
   theme: rheinklang-theme
