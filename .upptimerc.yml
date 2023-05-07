@@ -28,11 +28,12 @@ sites:
     icon: https://kanboard.rheinklang.events/assets/img/favicon.png
 
 status-website:
+  theme: https://status.rheinklang.events/rheinklang-theme.css
   cname: status.rheinklang.events
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.rheinklang.events/assets/logos/rheinklang-corporate-logo.svg
   name: Upptime
   introTitle: "Eine Übersicht über die Stati unserer Services."
-  introMessage: Die dargestellten Daten werden in **echtzeit** aus unserem [GitHub repository](https://github.com/rheinklang/uptime) aggregiert.
+  introMessage: Die dargestellten Daten werden in **echtzeit** aus unserem [GitHub repository](https://github.com/rheinklang/upptime) aggregiert.
   customHeadHtml: "<script>var _mtm = window._mtm = window._mtm || [];_mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];g.async=true; g.src='https://analytics.rheinklang.events/js/container_YSfneGKs.js'; s.parentNode.insertBefore(g,s);</script>"
   navbar:
     - title: Status
