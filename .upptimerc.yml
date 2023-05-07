@@ -28,7 +28,7 @@ sites:
     icon: https://kanboard.rheinklang.events/assets/img/favicon.png
 
 status-website:
-  theme: https://status.rheinklang.events/rheinklang-theme.css
+  theme: rheinklang-theme
   cname: status.rheinklang.events
   logoUrl: https://www.rheinklang.events/assets/logos/rheinklang-corporate-logo.svg
   name: Upptime
