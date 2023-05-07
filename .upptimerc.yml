@@ -38,7 +38,7 @@ sites:
     maxResponseTime: 2000
 
 status-website:
-  theme: rheinklang-theme
+  themeUrl: https://status.rheinklang.events/rheinklang-theme.css
   cname: status.rheinklang.events
   logoUrl: https://www.rheinklang.events/assets/logos/rheinklang-corporate-logo.svg
   name: Upptime
