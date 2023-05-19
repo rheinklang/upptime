@@ -22,19 +22,19 @@
     "url": "https://bio.rheinklang.events/links",
     "icon": "https://www.switchy.io/assets/favicons/favicon.ico",
     "slug": "bio-links",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 906,
-    "timeDay": 631,
-    "timeWeek": 897,
-    "timeMonth": 906,
-    "timeYear": 906,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 859,
+    "timeDay": 475,
+    "timeWeek": 815,
+    "timeMonth": 859,
+    "timeYear": 859,
     "dailyMinutesDown": {
-      "2023-05-19": 0
+      "2023-05-19": 20
     }
   },
   {
