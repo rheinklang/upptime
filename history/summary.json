@@ -22,18 +22,20 @@
     "url": "https://bio.rheinklang.events/links",
     "icon": "https://www.switchy.io/assets/favicons/favicon.ico",
     "slug": "bio-links",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 920,
-    "timeDay": 551,
-    "timeWeek": 923,
-    "timeMonth": 920,
-    "timeYear": 920,
-    "dailyMinutesDown": {}
+    "time": 906,
+    "timeDay": 631,
+    "timeWeek": 897,
+    "timeMonth": 906,
+    "timeYear": 906,
+    "dailyMinutesDown": {
+      "2023-05-19": 0
+    }
   },
   {
     "name": "CMS",
