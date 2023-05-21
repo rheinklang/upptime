@@ -5,19 +5,17 @@
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 913,
-    "timeDay": 1478,
-    "timeWeek": 1049,
-    "timeMonth": 913,
-    "timeYear": 913,
-    "dailyMinutesDown": {
-      "2023-05-20": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 924,
+    "timeDay": 1700,
+    "timeWeek": 1113,
+    "timeMonth": 924,
+    "timeYear": 924,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bio Links",
@@ -30,11 +28,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 865,
-    "timeDay": 952,
-    "timeWeek": 800,
-    "timeMonth": 865,
-    "timeYear": 865,
+    "time": 869,
+    "timeDay": 945,
+    "timeWeek": 776,
+    "timeMonth": 869,
+    "timeYear": 869,
     "dailyMinutesDown": {
       "2023-05-19": 20
     }
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 563,
-    "timeDay": 630,
-    "timeWeek": 472,
-    "timeMonth": 563,
-    "timeYear": 563,
+    "time": 571,
+    "timeDay": 692,
+    "timeWeek": 483,
+    "timeMonth": 571,
+    "timeYear": 571,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 622,
-    "timeDay": 714,
-    "timeWeek": 618,
-    "timeMonth": 622,
-    "timeYear": 622,
+    "time": 617,
+    "timeDay": 544,
+    "timeWeek": 586,
+    "timeMonth": 617,
+    "timeYear": 617,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 603,
-    "timeDay": 687,
-    "timeWeek": 513,
-    "timeMonth": 603,
-    "timeYear": 603,
+    "time": 606,
+    "timeDay": 653,
+    "timeWeek": 505,
+    "timeMonth": 606,
+    "timeYear": 606,
     "dailyMinutesDown": {}
   }
 ]
