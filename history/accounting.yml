@@ -1,7 +1,7 @@
 url: $SITE_ACCOUNTING
-status: degraded
+status: up
 code: 200
-responseTime: 19481
-lastUpdated: 2023-08-29T21:17:40.846Z
+responseTime: 529
+lastUpdated: 2023-08-29T21:28:52.946Z
 startTime: 2023-05-07T13:46:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
