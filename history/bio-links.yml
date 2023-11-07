@@ -1,7 +1,7 @@
 url: https://bio.rheinklang.events/links
-status: up
-code: 200
-responseTime: 787
-lastUpdated: 2023-11-06T23:37:19.975Z
+status: degraded
+code: 502
+responseTime: 1299
+lastUpdated: 2023-11-07T21:00:08.556Z
 startTime: 2023-05-07T13:46:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
