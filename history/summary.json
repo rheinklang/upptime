@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 787,
-    "timeDay": 823,
-    "timeWeek": 860,
-    "timeMonth": 842,
-    "timeYear": 787,
+    "time": 788,
+    "timeDay": 1030,
+    "timeWeek": 836,
+    "timeMonth": 859,
+    "timeYear": 788,
     "dailyMinutesDown": {
       "2023-07-12": 59,
       "2023-05-24": 36
@@ -25,7 +25,7 @@
     "url": "https://bio.rheinklang.events/links",
     "icon": "https://www.switchy.io/assets/favicons/favicon.ico",
     "slug": "bio-links",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "98.83%",
     "uptimeWeek": "99.58%",
@@ -33,8 +33,8 @@
     "uptimeYear": "99.84%",
     "time": 1168,
     "timeDay": 1340,
-    "timeWeek": 1094,
-    "timeMonth": 1492,
+    "timeWeek": 1116,
+    "timeMonth": 1504,
     "timeYear": 1168,
     "dailyMinutesDown": {
       "2023-11-07": 17,
@@ -62,11 +62,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 552,
-    "timeDay": 752,
-    "timeWeek": 576,
-    "timeMonth": 545,
-    "timeYear": 552,
+    "time": 551,
+    "timeDay": 652,
+    "timeWeek": 565,
+    "timeMonth": 546,
+    "timeYear": 551,
     "dailyMinutesDown": {
       "2023-05-24": 36
     }
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 723,
-    "timeDay": 1682,
-    "timeWeek": 863,
-    "timeMonth": 676,
-    "timeYear": 723,
+    "time": 721,
+    "timeDay": 1574,
+    "timeWeek": 835,
+    "timeMonth": 663,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2023-05-24": 36
     }
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 691,
-    "timeDay": 1149,
-    "timeWeek": 887,
+    "time": 690,
+    "timeDay": 885,
+    "timeWeek": 875,
     "timeMonth": 684,
-    "timeYear": 691,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2023-06-16": 24,
       "2023-05-24": 35
