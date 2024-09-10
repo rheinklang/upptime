@@ -28,18 +28,18 @@
     "icon": "https://www.switchy.io/assets/favicons/favicon.ico",
     "slug": "bio-links",
     "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "93.24%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.61%",
+    "uptime": "99.69%",
+    "uptimeDay": "94.07%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.62%",
     "time": 1176,
     "timeDay": 3297,
     "timeWeek": 2269,
     "timeMonth": 1505,
     "timeYear": 1210,
     "dailyMinutesDown": {
-      "2024-09-09": 97,
+      "2024-09-09": 85,
       "2024-09-03": 19,
       "2024-08-29": 21,
       "2024-08-01": 105,
@@ -86,8 +86,7 @@
       "2023-10-23": 29,
       "2023-10-02": 50,
       "2023-09-15": 36,
-      "2023-09-13": 25,
-      "2023-09-11": 46
+      "2023-09-13": 25
     }
   },
   {
