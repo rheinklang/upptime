@@ -1,7 +1,7 @@
 url: $CMS_HOST/api/singletons/get/ping?token=$CMS_API_TOKEN
 status: up
 code: 200
-responseTime: 840
-lastUpdated: 2025-08-31T23:00:51.153Z
+responseTime: 389
+lastUpdated: 2025-09-01T23:00:46.462Z
 startTime: 2023-05-07T13:46:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
