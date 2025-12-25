@@ -1,7 +1,7 @@
 url: $SITE_KANBOARD
-status: down
+status: degraded
 code: 526
-responseTime: 319
-lastUpdated: 2025-12-24T23:08:27.449Z
+responseTime: 4392
+lastUpdated: 2025-12-25T23:01:48.341Z
 startTime: 2023-05-07T13:46:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
