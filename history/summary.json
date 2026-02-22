@@ -4,17 +4,17 @@
     "url": "https://rheinklang.events",
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "91.43%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "91.42%",
     "uptimeWeek": "90.51%",
     "uptimeMonth": "92.48%",
-    "uptimeYear": "99.06%",
+    "uptimeYear": "99.07%",
     "time": 1016,
-    "timeDay": 773,
-    "timeWeek": 1179,
-    "timeMonth": 874,
-    "timeYear": 944,
+    "timeDay": 749,
+    "timeWeek": 1165,
+    "timeMonth": 871,
+    "timeYear": 943,
     "dailyMinutesDown": {
       "2026-02-22": 70,
       "2026-02-21": 192,
@@ -70,8 +70,7 @@
       "2025-12-03": 64,
       "2025-12-01": 50,
       "2025-11-30": 17,
-      "2025-11-29": 25,
-      "2025-11-28": 25
+      "2025-11-29": 25
     }
   },
   {
@@ -113,15 +112,15 @@
     "url": "$CMS_HOST/api/singletons/get/ping?token=$CMS_API_TOKEN",
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "91.43%",
+    "uptimeDay": "91.41%",
     "uptimeWeek": "91.12%",
     "uptimeMonth": "75.67%",
     "uptimeYear": "97.65%",
     "time": 605,
-    "timeDay": 710,
-    "timeWeek": 677,
+    "timeDay": 702,
+    "timeWeek": 676,
     "timeMonth": 638,
     "timeYear": 617,
     "dailyMinutesDown": {
@@ -186,8 +185,7 @@
       "2025-11-29": 25,
       "2025-11-28": 25,
       "2025-11-27": 118,
-      "2025-11-25": 61,
-      "2025-11-24": 26
+      "2025-11-25": 61
     }
   },
   {
@@ -207,7 +205,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-22": 997,
+      "2026-02-22": 1021,
       "2026-02-21": 1440,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
@@ -591,7 +589,7 @@
     "timeMonth": 2290,
     "timeYear": 1172,
     "dailyMinutesDown": {
-      "2026-02-22": 997,
+      "2026-02-22": 1021,
       "2026-02-21": 1440,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
