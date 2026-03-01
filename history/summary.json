@@ -4,16 +4,16 @@
     "url": "https://rheinklang.events",
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "92.79%",
+    "uptimeDay": "92.78%",
     "uptimeWeek": "94.34%",
     "uptimeMonth": "94.23%",
     "uptimeYear": "99.01%",
     "time": 1004,
-    "timeDay": 638,
-    "timeWeek": 977,
-    "timeMonth": 925,
+    "timeDay": 630,
+    "timeWeek": 961,
+    "timeMonth": 922,
     "timeYear": 945,
     "dailyMinutesDown": {
       "2026-03-01": 28,
@@ -70,8 +70,7 @@
       "2025-12-12": 20,
       "2025-12-10": 61,
       "2025-12-07": 99,
-      "2025-12-06": 52,
-      "2025-12-04": 24
+      "2025-12-06": 52
     }
   },
   {
@@ -113,16 +112,16 @@
     "url": "$CMS_HOST/api/singletons/get/ping?token=$CMS_API_TOKEN",
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "92.79%",
+    "uptimeDay": "92.78%",
     "uptimeWeek": "97.53%",
-    "uptimeMonth": "83.91%",
+    "uptimeMonth": "83.97%",
     "uptimeYear": "97.65%",
     "time": 607,
-    "timeDay": 603,
-    "timeWeek": 623,
-    "timeMonth": 638,
+    "timeDay": 595,
+    "timeWeek": 618,
+    "timeMonth": 637,
     "timeYear": 617,
     "dailyMinutesDown": {
       "2026-03-01": 28,
@@ -186,8 +185,7 @@
       "2025-12-03": 64,
       "2025-12-01": 50,
       "2025-11-30": 17,
-      "2025-11-29": 25,
-      "2025-11-28": 25
+      "2025-11-29": 25
     }
   },
   {
@@ -196,7 +194,7 @@
     "icon": "https://assets.akaunting.com/site/img/logo/akaunting-logo.ico",
     "slug": "accounting",
     "status": "down",
-    "uptime": "50.33%",
+    "uptime": "50.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -207,7 +205,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-01": 591,
+      "2026-03-01": 618,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -591,7 +589,7 @@
     "timeMonth": 2164,
     "timeYear": 1172,
     "dailyMinutesDown": {
-      "2026-03-01": 591,
+      "2026-03-01": 618,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
