@@ -4,16 +4,16 @@
     "url": "https://rheinklang.events",
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "75.58%",
+    "uptimeDay": "75.57%",
     "uptimeWeek": "92.16%",
     "uptimeMonth": "93.11%",
-    "uptimeYear": "98.90%",
+    "uptimeYear": "98.91%",
     "time": 1019,
-    "timeDay": 706,
-    "timeWeek": 675,
-    "timeMonth": 904,
+    "timeDay": 713,
+    "timeWeek": 677,
+    "timeMonth": 903,
     "timeYear": 930,
     "dailyMinutesDown": {
       "2026-03-12": 348,
@@ -68,8 +68,7 @@
       "2026-01-03": 32,
       "2026-01-02": 29,
       "2025-12-29": 47,
-      "2025-12-28": 21,
-      "2025-12-26": 16
+      "2025-12-28": 21
     }
   },
   {
@@ -111,15 +110,15 @@
     "url": "$CMS_HOST/api/singletons/get/ping?token=$CMS_API_TOKEN",
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "75.58%",
+    "uptimeDay": "75.56%",
     "uptimeWeek": "92.16%",
     "uptimeMonth": "93.93%",
     "uptimeYear": "97.53%",
-    "time": 611,
-    "timeDay": 626,
-    "timeWeek": 574,
+    "time": 612,
+    "timeDay": 630,
+    "timeWeek": 576,
     "timeMonth": 632,
     "timeYear": 617,
     "dailyMinutesDown": {
@@ -183,8 +182,7 @@
       "2025-12-24": 19,
       "2025-12-22": 21,
       "2025-12-20": 39,
-      "2025-12-16": 30,
-      "2025-12-15": 28
+      "2025-12-16": 30
     }
   },
   {
@@ -204,7 +202,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-12": 1149,
+      "2026-03-12": 1262,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -581,14 +579,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "16.62%",
+    "uptimeYear": "16.60%",
     "time": 1108,
     "timeDay": 340,
     "timeWeek": 394,
     "timeMonth": 1218,
     "timeYear": 1157,
     "dailyMinutesDown": {
-      "2026-03-12": 1149,
+      "2026-03-12": 1262,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
