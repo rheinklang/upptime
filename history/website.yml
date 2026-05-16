@@ -1,7 +1,7 @@
 url: https://rheinklang.events
-status: up
-code: 200
-responseTime: 835
-lastUpdated: 2026-05-15T23:41:27.015Z
+status: degraded
+code: 415
+responseTime: 2900
+lastUpdated: 2026-05-16T14:12:01.209Z
 startTime: 2023-05-07T13:46:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
