@@ -4,16 +4,16 @@
     "url": "https://rheinklang.events",
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "94.95%",
-    "uptimeMonth": "96.48%",
-    "uptimeYear": "98.83%",
+    "uptimeDay": "94.88%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "96.32%",
+    "uptimeYear": "98.81%",
     "time": 964,
-    "timeDay": 527,
-    "timeWeek": 686,
-    "timeMonth": 748,
+    "timeDay": 547,
+    "timeWeek": 668,
+    "timeMonth": 754,
     "timeYear": 846,
     "dailyMinutesDown": {
       "2026-02-21": 90,
@@ -73,7 +73,7 @@
       "2026-05-17": 118,
       "2026-05-21": 169,
       "2026-05-23": 237,
-      "2026-05-24": 1
+      "2026-05-24": 74
     }
   },
   {
@@ -114,16 +114,16 @@
     "url": "$CMS_HOST/api/singletons/get/ping?token=$CMS_API_TOKEN",
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
-    "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "94.38%",
-    "uptimeMonth": "96.35%",
-    "uptimeYear": "98.84%",
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "94.89%",
+    "uptimeWeek": "94.08%",
+    "uptimeMonth": "96.18%",
+    "uptimeYear": "98.82%",
     "time": 611,
-    "timeDay": 544,
-    "timeWeek": 659,
-    "timeMonth": 611,
+    "timeDay": 498,
+    "timeWeek": 649,
+    "timeMonth": 608,
     "timeYear": 618,
     "dailyMinutesDown": {
       "2026-02-20": 1,
@@ -184,7 +184,7 @@
       "2026-05-17": 118,
       "2026-05-21": 169,
       "2026-05-23": 295,
-      "2026-05-24": 1
+      "2026-05-24": 74
     }
   },
   {
@@ -204,7 +204,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-24": 1049,
+      "2026-05-24": 1123,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -588,7 +588,7 @@
     "timeMonth": 434,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2026-05-24": 1049,
+      "2026-05-24": 1123,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
