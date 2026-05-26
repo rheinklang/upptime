@@ -115,16 +115,16 @@
     "url": "$CMS_HOST/api/singletons/get/ping?token=$CMS_API_TOKEN",
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "91.86%",
-    "uptimeMonth": "95.62%",
-    "uptimeYear": "98.80%",
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "93.71%",
+    "uptimeWeek": "90.97%",
+    "uptimeMonth": "95.41%",
+    "uptimeYear": "98.78%",
     "time": 612,
-    "timeDay": 768,
-    "timeWeek": 627,
-    "timeMonth": 605,
+    "timeDay": 761,
+    "timeWeek": 634,
+    "timeMonth": 607,
     "timeYear": 618,
     "dailyMinutesDown": {
       "2026-02-21": 53,
@@ -185,7 +185,7 @@
       "2026-05-23": 295,
       "2026-05-24": 135,
       "2026-05-25": 221,
-      "2026-05-26": 1
+      "2026-05-26": 91
     }
   },
   {
@@ -194,7 +194,7 @@
     "icon": "https://assets.akaunting.com/site/img/logo/akaunting-logo.ico",
     "slug": "accounting",
     "status": "down",
-    "uptime": "46.43%",
+    "uptime": "46.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -205,7 +205,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 1192,
+      "2026-05-26": 1282,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -589,7 +589,7 @@
     "timeMonth": 436,
     "timeYear": 1070,
     "dailyMinutesDown": {
-      "2026-05-26": 1192,
+      "2026-05-26": 1282,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
