@@ -11,9 +11,9 @@
     "uptimeMonth": "95.13%",
     "uptimeYear": "98.64%",
     "time": 918,
-    "timeDay": 744,
-    "timeWeek": 720,
-    "timeMonth": 763,
+    "timeDay": 789,
+    "timeWeek": 739,
+    "timeMonth": 764,
     "timeYear": 842,
     "dailyMinutesDown": {
       "2026-02-22": 21,
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 817,
-    "timeDay": 964,
-    "timeWeek": 881,
-    "timeMonth": 784,
-    "timeYear": 777,
+    "time": 818,
+    "timeDay": 854,
+    "timeWeek": 907,
+    "timeMonth": 786,
+    "timeYear": 778,
     "dailyMinutesDown": {
       "2025-06-12": 108,
       "2025-07-29": 24,
@@ -123,9 +123,9 @@
     "uptimeMonth": "94.39%",
     "uptimeYear": "98.64%",
     "time": 613,
-    "timeDay": 695,
+    "timeDay": 701,
     "timeWeek": 622,
-    "timeMonth": 614,
+    "timeMonth": 616,
     "timeYear": 619,
     "dailyMinutesDown": {
       "2026-02-22": 21,
@@ -197,7 +197,7 @@
     "icon": "https://assets.akaunting.com/site/img/logo/akaunting-logo.ico",
     "slug": "accounting",
     "status": "down",
-    "uptime": "46.17%",
+    "uptime": "46.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -208,7 +208,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-01": 1420,
+      "2026-06-02": 285,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -571,8 +572,7 @@
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
-      "2025-06-03": 1440,
-      "2025-06-02": 1440
+      "2025-06-03": 1440
     }
   },
   {
@@ -581,18 +581,19 @@
     "icon": "https://kanboard.rheinklang.events/assets/img/favicon.png",
     "slug": "kanboard",
     "status": "down",
-    "uptime": "65.58%",
+    "uptime": "65.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1059,
-    "timeDay": 161,
-    "timeWeek": 382,
-    "timeMonth": 430,
-    "timeYear": 1070,
+    "time": 1058,
+    "timeDay": 489,
+    "timeWeek": 404,
+    "timeMonth": 431,
+    "timeYear": 1069,
     "dailyMinutesDown": {
-      "2026-06-01": 1420,
+      "2026-06-02": 285,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -955,8 +956,7 @@
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
-      "2025-06-03": 1440,
-      "2025-06-02": 1440
+      "2025-06-03": 1440
     }
   }
 ]
