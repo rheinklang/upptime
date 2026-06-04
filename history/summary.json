@@ -5,14 +5,14 @@
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
     "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "86.59%",
-    "uptimeWeek": "87.19%",
-    "uptimeMonth": "94.37%",
-    "uptimeYear": "98.62%",
+    "uptime": "99.53%",
+    "uptimeDay": "68.47%",
+    "uptimeWeek": "84.66%",
+    "uptimeMonth": "93.78%",
+    "uptimeYear": "98.57%",
     "time": 914,
     "timeDay": 520,
-    "timeWeek": 706,
+    "timeWeek": 710,
     "timeMonth": 742,
     "timeYear": 840,
     "dailyMinutesDown": {
@@ -75,7 +75,7 @@
       "2026-06-01": 450,
       "2026-06-02": 286,
       "2026-06-03": 192,
-      "2026-06-04": 1
+      "2026-06-04": 262
     }
   },
   {
@@ -117,11 +117,11 @@
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
     "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "86.60%",
-    "uptimeWeek": "86.37%",
-    "uptimeMonth": "93.63%",
-    "uptimeYear": "98.57%",
+    "uptime": "99.52%",
+    "uptimeDay": "68.48%",
+    "uptimeWeek": "83.79%",
+    "uptimeMonth": "93.03%",
+    "uptimeYear": "98.52%",
     "time": 613,
     "timeDay": 467,
     "timeWeek": 588,
@@ -189,7 +189,7 @@
       "2026-06-01": 450,
       "2026-06-02": 286,
       "2026-06-03": 192,
-      "2026-06-04": 1
+      "2026-06-04": 262
     }
   },
   {
@@ -198,7 +198,7 @@
     "icon": "https://assets.akaunting.com/site/img/logo/akaunting-logo.ico",
     "slug": "accounting",
     "status": "down",
-    "uptime": "46.09%",
+    "uptime": "46.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -209,7 +209,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-04": 27,
+      "2026-06-04": 288,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -582,7 +582,7 @@
     "icon": "https://kanboard.rheinklang.events/assets/img/favicon.png",
     "slug": "kanboard",
     "status": "down",
-    "uptime": "65.46%",
+    "uptime": "65.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -593,7 +593,7 @@
     "timeMonth": 416,
     "timeYear": 1068,
     "dailyMinutesDown": {
-      "2026-06-04": 27,
+      "2026-06-04": 288,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
