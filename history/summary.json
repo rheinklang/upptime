@@ -4,19 +4,18 @@
     "url": "https://rheinklang.events",
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "73.72%",
-    "uptimeWeek": "81.25%",
+    "uptimeDay": "75.34%",
+    "uptimeWeek": "81.24%",
     "uptimeMonth": "92.18%",
-    "uptimeYear": "98.45%",
-    "time": 912,
-    "timeDay": 650,
-    "timeWeek": 673,
-    "timeMonth": 728,
-    "timeYear": 818,
+    "uptimeYear": "98.46%",
+    "time": 911,
+    "timeDay": 674,
+    "timeWeek": 672,
+    "timeMonth": 729,
+    "timeYear": 819,
     "dailyMinutesDown": {
-      "2026-02-28": 22,
       "2026-03-01": 86,
       "2026-03-03": 106,
       "2026-03-04": 167,
@@ -75,7 +74,8 @@
       "2026-06-02": 286,
       "2026-06-03": 192,
       "2026-06-04": 608,
-      "2026-06-05": 354
+      "2026-06-05": 354,
+      "2026-06-06": 1
     }
   },
   {
@@ -90,10 +90,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 817,
-    "timeDay": 714,
-    "timeWeek": 926,
-    "timeMonth": 813,
-    "timeYear": 777,
+    "timeDay": 674,
+    "timeWeek": 896,
+    "timeMonth": 824,
+    "timeYear": 776,
     "dailyMinutesDown": {
       "2025-06-12": 108,
       "2025-07-29": 24,
@@ -116,19 +116,19 @@
     "url": "$CMS_HOST/api/singletons/get/ping?token=$CMS_API_TOKEN",
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "71.32%",
-    "uptimeWeek": "80.03%",
+    "uptimeDay": "75.38%",
+    "uptimeWeek": "80.16%",
     "uptimeMonth": "91.36%",
-    "uptimeYear": "98.39%",
+    "uptimeYear": "98.40%",
     "time": 612,
-    "timeDay": 609,
-    "timeWeek": 589,
-    "timeMonth": 603,
+    "timeDay": 564,
+    "timeWeek": 583,
+    "timeMonth": 599,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2026-03-01": 58,
+      "2026-03-01": 30,
       "2026-03-03": 106,
       "2026-03-04": 190,
       "2026-03-05": 58,
@@ -189,7 +189,8 @@
       "2026-06-02": 286,
       "2026-06-03": 192,
       "2026-06-04": 642,
-      "2026-06-05": 354
+      "2026-06-05": 354,
+      "2026-06-06": 1
     }
   },
   {
@@ -209,7 +210,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-05": 1378,
+      "2026-06-06": 16,
+      "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
@@ -572,8 +574,7 @@
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
-      "2025-06-07": 1440,
-      "2025-06-06": 1440
+      "2025-06-07": 1440
     }
   },
   {
@@ -587,13 +588,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1050,
-    "timeDay": 336,
-    "timeWeek": 390,
-    "timeMonth": 417,
+    "time": 1049,
+    "timeDay": 473,
+    "timeWeek": 382,
+    "timeMonth": 416,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2026-06-05": 1378,
+      "2026-06-06": 16,
+      "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
@@ -956,8 +958,7 @@
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
-      "2025-06-07": 1440,
-      "2025-06-06": 1440
+      "2025-06-07": 1440
     }
   }
 ]
