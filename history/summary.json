@@ -4,15 +4,15 @@
     "url": "https://rheinklang.events",
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
-    "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "73.50%",
-    "uptimeWeek": "76.30%",
-    "uptimeMonth": "90.70%",
-    "uptimeYear": "98.34%",
-    "time": 899,
-    "timeDay": 768,
-    "timeWeek": 686,
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "63.25%",
+    "uptimeWeek": "74.84%",
+    "uptimeMonth": "90.36%",
+    "uptimeYear": "98.32%",
+    "time": 900,
+    "timeDay": 762,
+    "timeWeek": 687,
     "timeMonth": 736,
     "timeYear": 818,
     "dailyMinutesDown": {
@@ -75,7 +75,7 @@
       "2026-06-05": 354,
       "2026-06-06": 378,
       "2026-06-07": 163,
-      "2026-06-08": 305
+      "2026-06-08": 453
     }
   },
   {
@@ -116,16 +116,16 @@
     "url": "$CMS_HOST/api/singletons/get/ping?token=$CMS_API_TOKEN",
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
-    "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "73.53%",
-    "uptimeWeek": "75.98%",
-    "uptimeMonth": "89.88%",
-    "uptimeYear": "98.29%",
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "63.29%",
+    "uptimeWeek": "74.51%",
+    "uptimeMonth": "89.54%",
+    "uptimeYear": "98.27%",
     "time": 610,
-    "timeDay": 559,
-    "timeWeek": 567,
-    "timeMonth": 595,
+    "timeDay": 599,
+    "timeWeek": 576,
+    "timeMonth": 598,
     "timeYear": 615,
     "dailyMinutesDown": {
       "2026-03-04": 26,
@@ -190,7 +190,7 @@
       "2026-06-05": 354,
       "2026-06-06": 376,
       "2026-06-07": 162,
-      "2026-06-08": 305
+      "2026-06-08": 452
     }
   },
   {
@@ -210,7 +210,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-08": 1118,
+      "2026-06-08": 1266,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
@@ -583,7 +583,7 @@
     "icon": "https://kanboard.rheinklang.events/assets/img/favicon.png",
     "slug": "kanboard",
     "status": "down",
-    "uptime": "65.19%",
+    "uptime": "65.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -594,7 +594,7 @@
     "timeMonth": 430,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2026-06-08": 1118,
+      "2026-06-08": 1266,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
