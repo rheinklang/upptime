@@ -4,16 +4,16 @@
     "url": "https://rheinklang.events",
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "78.21%",
-    "uptimeWeek": "77.49%",
-    "uptimeMonth": "89.71%",
-    "uptimeYear": "98.28%",
+    "uptimeDay": "77.84%",
+    "uptimeWeek": "76.33%",
+    "uptimeMonth": "89.45%",
+    "uptimeYear": "98.25%",
     "time": 895,
-    "timeDay": 856,
-    "timeWeek": 719,
-    "timeMonth": 746,
+    "timeDay": 879,
+    "timeWeek": 728,
+    "timeMonth": 751,
     "timeYear": 818,
     "dailyMinutesDown": {
       "2026-03-05": 58,
@@ -75,8 +75,9 @@
       "2026-06-06": 378,
       "2026-06-07": 163,
       "2026-06-08": 453,
-      "2026-06-10": 204,
-      "2026-06-09": 110
+      "2026-06-10": 316,
+      "2026-06-09": 110,
+      "2026-06-11": 5
     }
   },
   {
@@ -91,9 +92,9 @@
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.88%",
     "time": 822,
-    "timeDay": 984,
-    "timeWeek": 1330,
-    "timeMonth": 972,
+    "timeDay": 1077,
+    "timeWeek": 1305,
+    "timeMonth": 984,
     "timeYear": 788,
     "dailyMinutesDown": {
       "2025-06-12": 108,
@@ -118,17 +119,17 @@
     "url": "$CMS_HOST/api/singletons/get/ping?token=$CMS_API_TOKEN",
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
-    "status": "down",
+    "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "78.24%",
-    "uptimeWeek": "77.17%",
-    "uptimeMonth": "88.90%",
-    "uptimeYear": "98.25%",
-    "time": 610,
-    "timeDay": 554,
-    "timeWeek": 552,
-    "timeMonth": 602,
-    "timeYear": 615,
+    "uptimeDay": "77.87%",
+    "uptimeWeek": "76.01%",
+    "uptimeMonth": "88.63%",
+    "uptimeYear": "98.22%",
+    "time": 611,
+    "timeDay": 637,
+    "timeWeek": 573,
+    "timeMonth": 612,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2026-03-06": 49,
       "2026-03-07": 78,
@@ -191,8 +192,9 @@
       "2026-06-06": 376,
       "2026-06-07": 162,
       "2026-06-08": 452,
-      "2026-06-10": 204,
-      "2026-06-09": 110
+      "2026-06-10": 316,
+      "2026-06-09": 110,
+      "2026-06-11": 5
     }
   },
   {
@@ -201,7 +203,7 @@
     "icon": "https://assets.akaunting.com/site/img/logo/akaunting-logo.ico",
     "slug": "accounting",
     "status": "down",
-    "uptime": "45.81%",
+    "uptime": "45.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -212,7 +214,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-10": 1328,
+      "2026-06-11": 6,
+      "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -575,8 +578,7 @@
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
-      "2025-06-12": 1440,
-      "2025-06-11": 1440
+      "2025-06-12": 1440
     }
   },
   {
@@ -590,13 +592,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1056,
-    "timeDay": 2404,
-    "timeWeek": 1200,
-    "timeMonth": 659,
+    "time": 1055,
+    "timeDay": 1243,
+    "timeWeek": 1136,
+    "timeMonth": 663,
     "timeYear": 1078,
     "dailyMinutesDown": {
-      "2026-06-10": 1328,
+      "2026-06-11": 6,
+      "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -959,8 +962,7 @@
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
-      "2025-06-12": 1440,
-      "2025-06-11": 1440
+      "2025-06-12": 1440
     }
   }
 ]
