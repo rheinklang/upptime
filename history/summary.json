@@ -4,16 +4,16 @@
     "url": "https://rheinklang.events",
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
-    "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "87.16%",
-    "uptimeMonth": "86.91%",
-    "uptimeYear": "98.09%",
-    "time": 889,
-    "timeDay": 612,
-    "timeWeek": 669,
-    "timeMonth": 698,
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "90.27%",
+    "uptimeWeek": "85.78%",
+    "uptimeMonth": "86.60%",
+    "uptimeYear": "98.06%",
+    "time": 884,
+    "timeDay": 584,
+    "timeWeek": 663,
+    "timeMonth": 696,
     "timeYear": 816,
     "dailyMinutesDown": {
       "2026-03-10": 52,
@@ -78,7 +78,7 @@
       "2026-06-14": 485,
       "2026-06-16": 486,
       "2026-06-15": 46,
-      "2026-06-18": 1
+      "2026-06-18": 140
     }
   },
   {
@@ -119,16 +119,16 @@
     "url": "$CMS_HOST/api/singletons/get/ping?token=$CMS_API_TOKEN",
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
-    "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "87.18%",
-    "uptimeMonth": "86.32%",
-    "uptimeYear": "98.07%",
+    "status": "up",
+    "uptime": "99.37%",
+    "uptimeDay": "90.29%",
+    "uptimeWeek": "85.80%",
+    "uptimeMonth": "86.00%",
+    "uptimeYear": "98.04%",
     "time": 610,
-    "timeDay": 597,
-    "timeWeek": 538,
-    "timeMonth": 579,
+    "timeDay": 550,
+    "timeWeek": 535,
+    "timeMonth": 577,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2026-03-12": 227,
@@ -194,7 +194,7 @@
       "2026-06-14": 485,
       "2026-06-16": 485,
       "2026-06-15": 46,
-      "2026-06-18": 1
+      "2026-06-18": 140
     }
   },
   {
@@ -214,7 +214,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-18": 1052,
+      "2026-06-18": 1192,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -587,7 +587,7 @@
     "icon": "https://kanboard.rheinklang.events/assets/img/favicon.png",
     "slug": "kanboard",
     "status": "down",
-    "uptime": "64.62%",
+    "uptime": "64.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -598,7 +598,7 @@
     "timeMonth": 1540,
     "timeYear": 1147,
     "dailyMinutesDown": {
-      "2026-06-18": 1052,
+      "2026-06-18": 1192,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
