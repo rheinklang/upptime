@@ -4,16 +4,16 @@
     "url": "https://rheinklang.events",
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "82.71%",
-    "uptimeWeek": "83.23%",
-    "uptimeMonth": "83.98%",
-    "uptimeYear": "97.91%",
+    "uptimeDay": "75.25%",
+    "uptimeWeek": "82.17%",
+    "uptimeMonth": "83.74%",
+    "uptimeYear": "97.89%",
     "time": 871,
-    "timeDay": 540,
-    "timeWeek": 637,
-    "timeMonth": 685,
+    "timeDay": 597,
+    "timeWeek": 647,
+    "timeMonth": 686,
     "timeYear": 814,
     "dailyMinutesDown": {
       "2026-03-17": 38,
@@ -76,7 +76,8 @@
       "2026-06-20": 161,
       "2026-06-21": 737,
       "2026-06-22": 287,
-      "2026-06-23": 249
+      "2026-06-23": 264,
+      "2026-06-24": 93
     }
   },
   {
@@ -91,8 +92,8 @@
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.90%",
     "time": 823,
-    "timeDay": 1010,
-    "timeWeek": 950,
+    "timeDay": 1029,
+    "timeWeek": 983,
     "timeMonth": 1038,
     "timeYear": 792,
     "dailyMinutesDown": {
@@ -117,16 +118,16 @@
     "url": "$CMS_HOST/api/singletons/get/ping?token=$CMS_API_TOKEN",
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
-    "status": "down",
-    "uptime": "99.32%",
-    "uptimeDay": "82.75%",
-    "uptimeWeek": "83.26%",
-    "uptimeMonth": "83.52%",
-    "uptimeYear": "97.86%",
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "75.29%",
+    "uptimeWeek": "82.19%",
+    "uptimeMonth": "83.28%",
+    "uptimeYear": "97.84%",
     "time": 611,
-    "timeDay": 573,
-    "timeWeek": 557,
-    "timeMonth": 570,
+    "timeDay": 645,
+    "timeWeek": 579,
+    "timeMonth": 573,
     "timeYear": 613,
     "dailyMinutesDown": {
       "2026-03-21": 16,
@@ -191,7 +192,8 @@
       "2026-06-20": 160,
       "2026-06-21": 737,
       "2026-06-22": 287,
-      "2026-06-23": 248
+      "2026-06-23": 262,
+      "2026-06-24": 93
     }
   },
   {
@@ -211,7 +213,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-23": 1425,
+      "2026-06-24": 93,
+      "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -574,8 +577,7 @@
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
-      "2025-06-25": 1440,
-      "2025-06-24": 1440
+      "2025-06-25": 1440
     }
   },
   {
@@ -590,12 +592,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 1095,
-    "timeDay": 289,
-    "timeWeek": 300,
+    "timeDay": 401,
+    "timeWeek": 291,
     "timeMonth": 1530,
     "timeYear": 1145,
     "dailyMinutesDown": {
-      "2026-06-23": 1425,
+      "2026-06-24": 93,
+      "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -958,8 +961,7 @@
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
-      "2025-06-25": 1440,
-      "2025-06-24": 1440
+      "2025-06-25": 1440
     }
   }
 ]
