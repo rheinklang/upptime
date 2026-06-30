@@ -5,11 +5,11 @@
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
     "status": "down",
-    "uptime": "99.22%",
+    "uptime": "99.21%",
     "uptimeDay": "49.73%",
-    "uptimeWeek": "74.08%",
-    "uptimeMonth": "80.23%",
-    "uptimeYear": "97.54%",
+    "uptimeWeek": "72.72%",
+    "uptimeMonth": "79.91%",
+    "uptimeYear": "97.51%",
     "time": 893,
     "timeDay": 685,
     "timeWeek": 640,
@@ -74,7 +74,7 @@
       "2026-06-27": 160,
       "2026-06-28": 1044,
       "2026-06-29": 836,
-      "2026-06-30": 1
+      "2026-06-30": 137
     }
   },
   {
@@ -116,11 +116,11 @@
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
     "status": "down",
-    "uptime": "99.21%",
+    "uptime": "99.20%",
     "uptimeDay": "49.78%",
-    "uptimeWeek": "74.10%",
-    "uptimeMonth": "80.17%",
-    "uptimeYear": "97.52%",
+    "uptimeWeek": "72.75%",
+    "uptimeMonth": "79.86%",
+    "uptimeYear": "97.49%",
     "time": 610,
     "timeDay": 522,
     "timeWeek": 567,
@@ -186,7 +186,7 @@
       "2026-06-27": 159,
       "2026-06-28": 1044,
       "2026-06-29": 836,
-      "2026-06-30": 1
+      "2026-06-30": 137
     }
   },
   {
@@ -206,7 +206,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 114,
+      "2026-06-30": 251,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -579,7 +579,7 @@
     "icon": "https://kanboard.rheinklang.events/assets/img/favicon.png",
     "slug": "kanboard",
     "status": "down",
-    "uptime": "63.98%",
+    "uptime": "63.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -590,7 +590,7 @@
     "timeMonth": 1522,
     "timeYear": 1142,
     "dailyMinutesDown": {
-      "2026-06-30": 114,
+      "2026-06-30": 251,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
