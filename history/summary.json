@@ -4,19 +4,19 @@
     "url": "https://rheinklang.events",
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
-    "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "68.74%",
-    "uptimeWeek": "67.98%",
-    "uptimeMonth": "79.35%",
-    "uptimeYear": "97.42%",
-    "time": 881,
-    "timeDay": 670,
-    "timeWeek": 646,
-    "timeMonth": 669,
+    "status": "down",
+    "uptime": "99.19%",
+    "uptimeDay": "74.45%",
+    "uptimeWeek": "68.04%",
+    "uptimeMonth": "79.76%",
+    "uptimeYear": "97.43%",
+    "time": 880,
+    "timeDay": 602,
+    "timeWeek": 640,
+    "timeMonth": 671,
     "timeYear": 807,
     "dailyMinutesDown": {
-      "2026-04-10": 53,
+      "2026-04-10": 18,
       "2026-04-11": 245,
       "2026-04-12": 138,
       "2026-04-13": 151,
@@ -75,7 +75,8 @@
       "2026-06-30": 340,
       "2026-07-01": 127,
       "2026-07-02": 346,
-      "2026-07-03": 367
+      "2026-07-03": 367,
+      "2026-07-04": 1
     }
   },
   {
@@ -90,10 +91,10 @@
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.90%",
     "time": 823,
-    "timeDay": 998,
-    "timeWeek": 906,
-    "timeMonth": 1052,
-    "timeYear": 795,
+    "timeDay": 708,
+    "timeWeek": 887,
+    "timeMonth": 1046,
+    "timeYear": 796,
     "dailyMinutesDown": {
       "2025-07-29": 24,
       "2025-08-23": 28,
@@ -116,19 +117,19 @@
     "url": "$CMS_HOST/api/singletons/get/ping?token=$CMS_API_TOKEN",
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "68.79%",
-    "uptimeWeek": "68.01%",
-    "uptimeMonth": "79.30%",
+    "uptimeDay": "74.48%",
+    "uptimeWeek": "68.07%",
+    "uptimeMonth": "79.70%",
     "uptimeYear": "97.40%",
     "time": 606,
-    "timeDay": 510,
-    "timeWeek": 520,
-    "timeMonth": 554,
-    "timeYear": 611,
+    "timeDay": 503,
+    "timeWeek": 504,
+    "timeMonth": 553,
+    "timeYear": 610,
     "dailyMinutesDown": {
-      "2026-04-10": 53,
+      "2026-04-10": 18,
       "2026-04-11": 245,
       "2026-04-12": 138,
       "2026-04-13": 151,
@@ -188,7 +189,8 @@
       "2026-06-30": 339,
       "2026-07-01": 127,
       "2026-07-02": 345,
-      "2026-07-03": 367
+      "2026-07-03": 367,
+      "2026-07-04": 1
     }
   },
   {
@@ -197,7 +199,7 @@
     "icon": "https://assets.akaunting.com/site/img/logo/akaunting-logo.ico",
     "slug": "accounting",
     "status": "down",
-    "uptime": "44.90%",
+    "uptime": "44.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -208,7 +210,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-03": 1101,
+      "2026-07-04": 73,
+      "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
@@ -571,8 +574,7 @@
       "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
-      "2025-07-05": 1440,
-      "2025-07-04": 1440
+      "2025-07-05": 1440
     }
   },
   {
@@ -581,18 +583,19 @@
     "icon": "https://kanboard.rheinklang.events/assets/img/favicon.png",
     "slug": "kanboard",
     "status": "down",
-    "uptime": "63.77%",
+    "uptime": "63.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1085,
-    "timeDay": 230,
+    "time": 1080,
+    "timeDay": 339,
     "timeWeek": 348,
-    "timeMonth": 1552,
+    "timeMonth": 1550,
     "timeYear": 1139,
     "dailyMinutesDown": {
-      "2026-07-03": 1101,
+      "2026-07-04": 73,
+      "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
@@ -955,8 +958,7 @@
       "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
-      "2025-07-05": 1440,
-      "2025-07-04": 1440
+      "2025-07-05": 1440
     }
   }
 ]
