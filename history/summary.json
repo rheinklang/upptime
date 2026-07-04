@@ -5,11 +5,11 @@
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
     "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "74.45%",
-    "uptimeWeek": "68.04%",
+    "uptime": "99.18%",
+    "uptimeDay": "63.87%",
+    "uptimeWeek": "66.52%",
     "uptimeMonth": "79.76%",
-    "uptimeYear": "97.43%",
+    "uptimeYear": "97.40%",
     "time": 880,
     "timeDay": 602,
     "timeWeek": 640,
@@ -76,7 +76,7 @@
       "2026-07-01": 127,
       "2026-07-02": 346,
       "2026-07-03": 367,
-      "2026-07-04": 1
+      "2026-07-04": 153
     }
   },
   {
@@ -118,11 +118,11 @@
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
     "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "74.48%",
-    "uptimeWeek": "68.07%",
+    "uptime": "99.17%",
+    "uptimeDay": "63.91%",
+    "uptimeWeek": "66.55%",
     "uptimeMonth": "79.70%",
-    "uptimeYear": "97.40%",
+    "uptimeYear": "97.37%",
     "time": 606,
     "timeDay": 503,
     "timeWeek": 504,
@@ -190,7 +190,7 @@
       "2026-07-01": 127,
       "2026-07-02": 345,
       "2026-07-03": 367,
-      "2026-07-04": 1
+      "2026-07-04": 153
     }
   },
   {
@@ -199,7 +199,7 @@
     "icon": "https://assets.akaunting.com/site/img/logo/akaunting-logo.ico",
     "slug": "accounting",
     "status": "down",
-    "uptime": "44.89%",
+    "uptime": "44.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -210,7 +210,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-04": 73,
+      "2026-07-04": 225,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
@@ -583,7 +583,7 @@
     "icon": "https://kanboard.rheinklang.events/assets/img/favicon.png",
     "slug": "kanboard",
     "status": "down",
-    "uptime": "63.76%",
+    "uptime": "63.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -594,7 +594,7 @@
     "timeMonth": 1550,
     "timeYear": 1139,
     "dailyMinutesDown": {
-      "2026-07-04": 73,
+      "2026-07-04": 225,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
