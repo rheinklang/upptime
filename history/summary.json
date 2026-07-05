@@ -5,13 +5,13 @@
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
     "status": "down",
-    "uptime": "99.17%",
-    "uptimeDay": "80.20%",
+    "uptime": "99.16%",
+    "uptimeDay": "80.15%",
     "uptimeWeek": "67.51%",
-    "uptimeMonth": "80.39%",
-    "uptimeYear": "97.38%",
+    "uptimeMonth": "80.00%",
+    "uptimeYear": "97.35%",
     "time": 875,
-    "timeDay": 644,
+    "timeDay": 637,
     "timeWeek": 645,
     "timeMonth": 672,
     "timeYear": 806,
@@ -76,7 +76,7 @@
       "2026-07-02": 346,
       "2026-07-03": 367,
       "2026-07-04": 284,
-      "2026-07-05": 1
+      "2026-07-05": 173
     }
   },
   {
@@ -118,13 +118,13 @@
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
     "status": "down",
-    "uptime": "99.17%",
-    "uptimeDay": "80.24%",
+    "uptime": "99.16%",
+    "uptimeDay": "80.19%",
     "uptimeWeek": "67.54%",
-    "uptimeMonth": "80.41%",
-    "uptimeYear": "97.36%",
+    "uptimeMonth": "80.02%",
+    "uptimeYear": "97.33%",
     "time": 605,
-    "timeDay": 435,
+    "timeDay": 422,
     "timeWeek": 496,
     "timeMonth": 548,
     "timeYear": 609,
@@ -190,7 +190,7 @@
       "2026-07-02": 345,
       "2026-07-03": 367,
       "2026-07-04": 284,
-      "2026-07-05": 1
+      "2026-07-05": 173
     }
   },
   {
@@ -199,7 +199,7 @@
     "icon": "https://assets.akaunting.com/site/img/logo/akaunting-logo.ico",
     "slug": "accounting",
     "status": "down",
-    "uptime": "44.85%",
+    "uptime": "44.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -210,7 +210,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 71,
+      "2026-07-05": 244,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -594,7 +594,7 @@
     "timeMonth": 1556,
     "timeYear": 1139,
     "dailyMinutesDown": {
-      "2026-07-05": 71,
+      "2026-07-05": 244,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
