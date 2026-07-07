@@ -6,13 +6,13 @@
     "slug": "website",
     "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "78.51%",
-    "uptimeMonth": "80.46%",
-    "uptimeYear": "97.29%",
+    "uptimeDay": "89.01%",
+    "uptimeWeek": "78.21%",
+    "uptimeMonth": "80.10%",
+    "uptimeYear": "97.26%",
     "time": 874,
     "timeDay": 617,
-    "timeWeek": 639,
+    "timeWeek": 637,
     "timeMonth": 668,
     "timeYear": 805,
     "dailyMinutesDown": {
@@ -76,7 +76,7 @@
       "2026-07-03": 367,
       "2026-07-04": 284,
       "2026-07-05": 702,
-      "2026-07-07": 1
+      "2026-07-07": 158
     }
   },
   {
@@ -118,11 +118,11 @@
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
     "status": "down",
-    "uptime": "99.14%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "78.53%",
-    "uptimeMonth": "80.48%",
-    "uptimeYear": "97.27%",
+    "uptime": "99.13%",
+    "uptimeDay": "89.02%",
+    "uptimeWeek": "78.24%",
+    "uptimeMonth": "80.12%",
+    "uptimeYear": "97.24%",
     "time": 604,
     "timeDay": 518,
     "timeWeek": 492,
@@ -190,7 +190,7 @@
       "2026-07-03": 367,
       "2026-07-04": 284,
       "2026-07-05": 701,
-      "2026-07-07": 1
+      "2026-07-07": 158
     }
   },
   {
@@ -210,7 +210,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-07": 83,
+      "2026-07-07": 241,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
@@ -594,7 +594,7 @@
     "timeMonth": 1548,
     "timeYear": 1139,
     "dailyMinutesDown": {
-      "2026-07-07": 83,
+      "2026-07-07": 241,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
