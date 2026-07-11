@@ -4,16 +4,16 @@
     "url": "https://rheinklang.events",
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
-    "status": "down",
-    "uptime": "99.13%",
-    "uptimeDay": "93.65%",
-    "uptimeWeek": "87.67%",
-    "uptimeMonth": "81.67%",
-    "uptimeYear": "97.22%",
+    "status": "up",
+    "uptime": "99.12%",
+    "uptimeDay": "88.79%",
+    "uptimeWeek": "87.24%",
+    "uptimeMonth": "81.51%",
+    "uptimeYear": "97.20%",
     "time": 872,
-    "timeDay": 657,
-    "timeWeek": 689,
-    "timeMonth": 655,
+    "timeDay": 670,
+    "timeWeek": 688,
+    "timeMonth": 656,
     "timeYear": 804,
     "dailyMinutesDown": {
       "2026-04-13": 151,
@@ -77,7 +77,7 @@
       "2026-07-05": 702,
       "2026-07-07": 251,
       "2026-07-10": 173,
-      "2026-07-11": 92
+      "2026-07-11": 162
     }
   },
   {
@@ -118,17 +118,17 @@
     "url": "$CMS_HOST/api/singletons/get/ping?token=$CMS_API_TOKEN",
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
-    "status": "down",
-    "uptime": "99.12%",
-    "uptimeDay": "93.67%",
-    "uptimeWeek": "87.69%",
-    "uptimeMonth": "81.70%",
-    "uptimeYear": "97.19%",
-    "time": 604,
-    "timeDay": 649,
-    "timeWeek": 550,
-    "timeMonth": 543,
-    "timeYear": 608,
+    "status": "up",
+    "uptime": "99.11%",
+    "uptimeDay": "88.81%",
+    "uptimeWeek": "87.25%",
+    "uptimeMonth": "81.54%",
+    "uptimeYear": "97.18%",
+    "time": 605,
+    "timeDay": 661,
+    "timeWeek": 562,
+    "timeMonth": 544,
+    "timeYear": 609,
     "dailyMinutesDown": {
       "2026-04-13": 151,
       "2026-04-14": 152,
@@ -192,7 +192,7 @@
       "2026-07-05": 701,
       "2026-07-07": 251,
       "2026-07-10": 173,
-      "2026-07-11": 91
+      "2026-07-11": 161
     }
   },
   {
@@ -212,7 +212,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-11": 975,
+      "2026-07-11": 1046,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
@@ -596,7 +596,7 @@
     "timeMonth": 1412,
     "timeYear": 1139,
     "dailyMinutesDown": {
-      "2026-07-11": 975,
+      "2026-07-11": 1046,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
