@@ -4,16 +4,16 @@
     "url": "https://rheinklang.events",
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.10%",
-    "uptimeDay": "96.05%",
-    "uptimeWeek": "89.01%",
-    "uptimeMonth": "80.79%",
-    "uptimeYear": "97.15%",
+    "uptimeDay": "86.96%",
+    "uptimeWeek": "87.71%",
+    "uptimeMonth": "80.49%",
+    "uptimeYear": "97.12%",
     "time": 869,
-    "timeDay": 481,
-    "timeWeek": 628,
-    "timeMonth": 642,
+    "timeDay": 580,
+    "timeWeek": 645,
+    "timeMonth": 645,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2026-04-14": 84,
@@ -78,7 +78,7 @@
       "2026-07-10": 173,
       "2026-07-11": 191,
       "2026-07-12": 493,
-      "2026-07-13": 1
+      "2026-07-13": 132
     }
   },
   {
@@ -119,16 +119,16 @@
     "url": "$CMS_HOST/api/singletons/get/ping?token=$CMS_API_TOKEN",
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
-    "status": "down",
-    "uptime": "99.10%",
-    "uptimeDay": "96.06%",
-    "uptimeWeek": "89.02%",
-    "uptimeMonth": "80.81%",
-    "uptimeYear": "97.12%",
+    "status": "up",
+    "uptime": "99.09%",
+    "uptimeDay": "86.98%",
+    "uptimeWeek": "87.72%",
+    "uptimeMonth": "80.51%",
+    "uptimeYear": "97.10%",
     "time": 604,
-    "timeDay": 421,
-    "timeWeek": 558,
-    "timeMonth": 539,
+    "timeDay": 492,
+    "timeWeek": 568,
+    "timeMonth": 541,
     "timeYear": 608,
     "dailyMinutesDown": {
       "2026-04-14": 84,
@@ -194,7 +194,7 @@
       "2026-07-10": 173,
       "2026-07-11": 190,
       "2026-07-12": 493,
-      "2026-07-13": 1
+      "2026-07-13": 132
     }
   },
   {
@@ -214,7 +214,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-13": 685,
+      "2026-07-13": 816,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -598,7 +598,7 @@
     "timeMonth": 1411,
     "timeYear": 1139,
     "dailyMinutesDown": {
-      "2026-07-13": 685,
+      "2026-07-13": 816,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
