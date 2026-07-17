@@ -4,17 +4,17 @@
     "url": "https://rheinklang.events",
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
-    "status": "down",
-    "uptime": "99.08%",
-    "uptimeDay": "81.56%",
+    "status": "up",
+    "uptime": "99.07%",
+    "uptimeDay": "73.77%",
     "uptimeWeek": "82.59%",
-    "uptimeMonth": "81.19%",
-    "uptimeYear": "97.06%",
+    "uptimeMonth": "80.94%",
+    "uptimeYear": "97.03%",
     "time": 860,
-    "timeDay": 683,
-    "timeWeek": 672,
+    "timeDay": 676,
+    "timeWeek": 671,
     "timeMonth": 652,
-    "timeYear": 802,
+    "timeYear": 801,
     "dailyMinutesDown": {
       "2026-04-18": 35,
       "2026-04-19": 120,
@@ -78,7 +78,7 @@
       "2026-07-13": 132,
       "2026-07-15": 514,
       "2026-07-16": 68,
-      "2026-07-17": 197
+      "2026-07-17": 309
     }
   },
   {
@@ -119,16 +119,16 @@
     "url": "$CMS_HOST/api/singletons/get/ping?token=$CMS_API_TOKEN",
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
-    "status": "down",
-    "uptime": "99.07%",
-    "uptimeDay": "81.59%",
-    "uptimeWeek": "82.60%",
-    "uptimeMonth": "81.22%",
-    "uptimeYear": "97.03%",
+    "status": "up",
+    "uptime": "99.06%",
+    "uptimeDay": "73.80%",
+    "uptimeWeek": "82.61%",
+    "uptimeMonth": "80.96%",
+    "uptimeYear": "97.01%",
     "time": 605,
-    "timeDay": 515,
-    "timeWeek": 580,
-    "timeMonth": 547,
+    "timeDay": 544,
+    "timeWeek": 585,
+    "timeMonth": 548,
     "timeYear": 607,
     "dailyMinutesDown": {
       "2026-04-19": 120,
@@ -193,7 +193,7 @@
       "2026-07-13": 132,
       "2026-07-15": 514,
       "2026-07-16": 68,
-      "2026-07-17": 197
+      "2026-07-17": 309
     }
   },
   {
@@ -213,7 +213,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-17": 535,
+      "2026-07-17": 648,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -597,7 +597,7 @@
     "timeMonth": 358,
     "timeYear": 1140,
     "dailyMinutesDown": {
-      "2026-07-17": 535,
+      "2026-07-17": 648,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
