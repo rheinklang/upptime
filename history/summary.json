@@ -4,16 +4,16 @@
     "url": "https://rheinklang.events",
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "90.78%",
-    "uptimeWeek": "82.94%",
+    "uptimeDay": "86.32%",
+    "uptimeWeek": "82.31%",
     "uptimeMonth": "81.42%",
-    "uptimeYear": "96.99%",
+    "uptimeYear": "96.97%",
     "time": 843,
-    "timeDay": 561,
-    "timeWeek": 652,
-    "timeMonth": 647,
+    "timeDay": 567,
+    "timeWeek": 650,
+    "timeMonth": 646,
     "timeYear": 796,
     "dailyMinutesDown": {
       "2026-04-28": 61,
@@ -73,7 +73,7 @@
       "2026-07-17": 376,
       "2026-07-18": 257,
       "2026-07-19": 371,
-      "2026-07-21": 133
+      "2026-07-21": 197
     }
   },
   {
@@ -114,15 +114,15 @@
     "url": "$CMS_HOST/api/singletons/get/ping?token=$CMS_API_TOKEN",
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
-    "status": "down",
-    "uptime": "99.07%",
-    "uptimeDay": "90.80%",
-    "uptimeWeek": "82.97%",
+    "status": "up",
+    "uptime": "99.06%",
+    "uptimeDay": "86.34%",
+    "uptimeWeek": "82.33%",
     "uptimeMonth": "81.44%",
-    "uptimeYear": "97.00%",
+    "uptimeYear": "96.99%",
     "time": 606,
-    "timeDay": 529,
-    "timeWeek": 602,
+    "timeDay": 522,
+    "timeWeek": 599,
     "timeMonth": 562,
     "timeYear": 608,
     "dailyMinutesDown": {
@@ -184,7 +184,7 @@
       "2026-07-17": 375,
       "2026-07-18": 255,
       "2026-07-19": 370,
-      "2026-07-21": 133
+      "2026-07-21": 197
     }
   },
   {
@@ -204,7 +204,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 1323,
+      "2026-07-21": 1388,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -577,7 +577,7 @@
     "icon": "https://kanboard.rheinklang.events/assets/img/favicon.png",
     "slug": "kanboard",
     "status": "down",
-    "uptime": "62.79%",
+    "uptime": "62.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -586,9 +586,9 @@
     "timeDay": 413,
     "timeWeek": 408,
     "timeMonth": 364,
-    "timeYear": 1137,
+    "timeYear": 1141,
     "dailyMinutesDown": {
-      "2026-07-21": 1323,
+      "2026-07-21": 1389,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
