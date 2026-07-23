@@ -4,15 +4,15 @@
     "url": "https://rheinklang.events",
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
-    "status": "down",
-    "uptime": "99.06%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "86.42%",
-    "uptimeMonth": "82.23%",
-    "uptimeYear": "96.97%",
+    "status": "up",
+    "uptime": "99.05%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "85.74%",
+    "uptimeMonth": "82.08%",
+    "uptimeYear": "96.96%",
     "time": 842,
-    "timeDay": 525,
-    "timeWeek": 617,
+    "timeDay": 547,
+    "timeWeek": 616,
     "timeMonth": 642,
     "timeYear": 795,
     "dailyMinutesDown": {
@@ -73,7 +73,7 @@
       "2026-07-19": 371,
       "2026-07-21": 197,
       "2026-07-22": 166,
-      "2026-07-23": 1
+      "2026-07-23": 70
     }
   },
   {
@@ -115,15 +115,15 @@
     "url": "$CMS_HOST/api/singletons/get/ping?token=$CMS_API_TOKEN",
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
-    "status": "down",
+    "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "86.45%",
-    "uptimeMonth": "82.26%",
-    "uptimeYear": "96.98%",
-    "time": 605,
-    "timeDay": 310,
-    "timeWeek": 566,
+    "uptimeDay": "95.16%",
+    "uptimeWeek": "85.77%",
+    "uptimeMonth": "82.10%",
+    "uptimeYear": "96.96%",
+    "time": 604,
+    "timeDay": 386,
+    "timeWeek": 565,
     "timeMonth": 552,
     "timeYear": 607,
     "dailyMinutesDown": {
@@ -185,7 +185,7 @@
       "2026-07-19": 370,
       "2026-07-21": 197,
       "2026-07-22": 166,
-      "2026-07-23": 1
+      "2026-07-23": 70
     }
   },
   {
@@ -205,7 +205,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 1262,
+      "2026-07-23": 1332,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -589,7 +589,7 @@
     "timeMonth": 375,
     "timeYear": 1138,
     "dailyMinutesDown": {
-      "2026-07-23": 1262,
+      "2026-07-23": 1332,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
