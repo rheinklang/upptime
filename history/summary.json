@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.60%",
+    "uptimeWeek": "91.14%",
     "uptimeMonth": "82.74%",
     "uptimeYear": "96.96%",
     "time": 842,
     "timeDay": 629,
-    "timeWeek": 617,
+    "timeWeek": 623,
     "timeMonth": 651,
     "timeYear": 795,
     "dailyMinutesDown": {
@@ -115,16 +115,16 @@
     "url": "$CMS_HOST/api/singletons/get/ping?token=$CMS_API_TOKEN",
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
-    "status": "down",
+    "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "90.61%",
-    "uptimeMonth": "82.76%",
-    "uptimeYear": "96.98%",
+    "uptimeDay": "93.69%",
+    "uptimeWeek": "90.26%",
+    "uptimeMonth": "82.55%",
+    "uptimeYear": "96.96%",
     "time": 605,
-    "timeDay": 562,
-    "timeWeek": 555,
-    "timeMonth": 548,
+    "timeDay": 479,
+    "timeWeek": 543,
+    "timeMonth": 547,
     "timeYear": 607,
     "dailyMinutesDown": {
       "2026-05-08": 123,
@@ -185,7 +185,7 @@
       "2026-07-21": 197,
       "2026-07-22": 166,
       "2026-07-23": 70,
-      "2026-07-25": 1
+      "2026-07-25": 91
     }
   },
   {
@@ -205,7 +205,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 553,
+      "2026-07-25": 643,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -589,7 +589,7 @@
     "timeMonth": 378,
     "timeYear": 1136,
     "dailyMinutesDown": {
-      "2026-07-25": 553,
+      "2026-07-25": 643,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
