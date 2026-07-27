@@ -4,16 +4,16 @@
     "url": "https://rheinklang.events",
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
-    "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "70.94%",
-    "uptimeWeek": "91.55%",
-    "uptimeMonth": "82.11%",
-    "uptimeYear": "96.93%",
+    "status": "up",
+    "uptime": "99.04%",
+    "uptimeDay": "62.72%",
+    "uptimeWeek": "90.37%",
+    "uptimeMonth": "81.93%",
+    "uptimeYear": "96.91%",
     "time": 840,
-    "timeDay": 747,
-    "timeWeek": 667,
-    "timeMonth": 654,
+    "timeDay": 758,
+    "timeWeek": 674,
+    "timeMonth": 653,
     "timeYear": 796,
     "dailyMinutesDown": {
       "2026-05-02": 56,
@@ -73,7 +73,7 @@
       "2026-07-21": 197,
       "2026-07-22": 166,
       "2026-07-23": 70,
-      "2026-07-27": 418
+      "2026-07-27": 536
     }
   },
   {
@@ -115,16 +115,16 @@
     "url": "$CMS_HOST/api/singletons/get/ping?token=$CMS_API_TOKEN",
     "icon": "https://getcockpit.com/favicon.png",
     "slug": "cms",
-    "status": "down",
-    "uptime": "99.04%",
-    "uptimeDay": "70.96%",
-    "uptimeWeek": "90.66%",
-    "uptimeMonth": "81.93%",
-    "uptimeYear": "96.91%",
+    "status": "up",
+    "uptime": "99.03%",
+    "uptimeDay": "62.75%",
+    "uptimeWeek": "89.49%",
+    "uptimeMonth": "81.74%",
+    "uptimeYear": "96.89%",
     "time": 605,
-    "timeDay": 599,
-    "timeWeek": 528,
-    "timeMonth": 545,
+    "timeDay": 603,
+    "timeWeek": 533,
+    "timeMonth": 544,
     "timeYear": 607,
     "dailyMinutesDown": {
       "2026-05-13": 92,
@@ -185,7 +185,7 @@
       "2026-07-22": 166,
       "2026-07-23": 70,
       "2026-07-25": 91,
-      "2026-07-27": 418
+      "2026-07-27": 536
     }
   },
   {
@@ -205,7 +205,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-27": 908,
+      "2026-07-27": 1027,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
@@ -589,7 +589,7 @@
     "timeMonth": 381,
     "timeYear": 1137,
     "dailyMinutesDown": {
-      "2026-07-27": 908,
+      "2026-07-27": 1027,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
