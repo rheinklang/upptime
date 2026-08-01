@@ -5,16 +5,16 @@
     "icon": "https://rheinklang.events/favicon.png",
     "slug": "website",
     "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "92.97%",
-    "uptimeMonth": "86.59%",
-    "uptimeYear": "96.91%",
+    "uptime": "99.02%",
+    "uptimeDay": "68.29%",
+    "uptimeWeek": "88.44%",
+    "uptimeMonth": "86.02%",
+    "uptimeYear": "96.83%",
     "time": 836,
-    "timeDay": 304,
-    "timeWeek": 689,
-    "timeMonth": 647,
-    "timeYear": 795,
+    "timeDay": 20,
+    "timeWeek": 651,
+    "timeMonth": 645,
+    "timeYear": 794,
     "dailyMinutesDown": {
       "2026-05-08": 123,
       "2026-05-16": 66,
@@ -72,7 +72,8 @@
       "2026-07-23": 70,
       "2026-07-27": 536,
       "2026-07-28": 171,
-      "2026-07-31": 1
+      "2026-08-01": 213,
+      "2026-07-31": 244
     }
   },
   {
@@ -87,9 +88,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.89%",
     "time": 809,
-    "timeDay": 842,
-    "timeWeek": 841,
-    "timeMonth": 943,
+    "timeDay": 1039,
+    "timeWeek": 867,
+    "timeMonth": 949,
     "timeYear": 816,
     "dailyMinutesDown": {
       "2025-08-23": 28,
@@ -117,12 +118,12 @@
     "uptime": "99.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.08%",
-    "uptimeMonth": "86.40%",
+    "uptimeMonth": "86.87%",
     "uptimeYear": "96.88%",
     "time": 605,
-    "timeDay": 839,
-    "timeWeek": 554,
-    "timeMonth": 549,
+    "timeDay": 639,
+    "timeWeek": 559,
+    "timeMonth": 552,
     "timeYear": 606,
     "dailyMinutesDown": {
       "2026-05-17": 118,
@@ -190,7 +191,7 @@
     "icon": "https://assets.akaunting.com/site/img/logo/akaunting-logo.ico",
     "slug": "accounting",
     "status": "down",
-    "uptime": "43.83%",
+    "uptime": "43.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -201,7 +202,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-31": 1197,
+      "2026-08-01": 213,
+      "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -564,8 +566,7 @@
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
-      "2025-08-02": 1440,
-      "2025-08-01": 1440
+      "2025-08-02": 1440
     }
   },
   {
@@ -574,18 +575,19 @@
     "icon": "https://kanboard.rheinklang.events/assets/img/favicon.png",
     "slug": "kanboard",
     "status": "down",
-    "uptime": "62.26%",
+    "uptime": "62.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1052,
-    "timeDay": 328,
-    "timeWeek": 407,
-    "timeMonth": 389,
-    "timeYear": 1137,
+    "time": 1050,
+    "timeDay": 24,
+    "timeWeek": 384,
+    "timeMonth": 378,
+    "timeYear": 1136,
     "dailyMinutesDown": {
-      "2026-07-31": 1197,
+      "2026-08-01": 213,
+      "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -948,8 +950,7 @@
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
-      "2025-08-02": 1440,
-      "2025-08-01": 1440
+      "2025-08-02": 1440
     }
   }
 ]
