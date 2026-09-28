@@ -7,14 +7,14 @@
     "status": "down",
     "uptime": "94.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "67.30%",
-    "uptimeMonth": "13.58%",
+    "uptimeWeek": "81.61%",
+    "uptimeMonth": "16.87%",
     "uptimeYear": "82.49%",
-    "time": 756,
-    "timeDay": 22,
-    "timeWeek": 31,
+    "time": 755,
+    "timeDay": 44,
+    "timeWeek": 32,
     "timeMonth": 38,
-    "timeYear": 760,
+    "timeYear": 759,
     "dailyMinutesDown": {
       "2026-05-08": 123,
       "2026-05-16": 66,
@@ -140,9 +140,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 820,
-    "timeDay": 1027,
-    "timeWeek": 948,
-    "timeMonth": 904,
+    "timeDay": 929,
+    "timeWeek": 933,
+    "timeMonth": 905,
     "timeYear": 831,
     "dailyMinutesDown": {
       "2025-10-02": 15,
@@ -170,9 +170,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.89%",
     "time": 603,
-    "timeDay": 417,
-    "timeWeek": 523,
-    "timeMonth": 533,
+    "timeDay": 482,
+    "timeWeek": 510,
+    "timeMonth": 531,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2026-05-17": 59,
@@ -241,7 +241,7 @@
     "icon": "https://assets.akaunting.com/site/img/logo/akaunting-logo.ico",
     "slug": "accounting",
     "status": "down",
-    "uptime": "41.80%",
+    "uptime": "41.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -252,7 +252,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-27": 293,
+      "2026-09-28": 295,
+      "2026-09-27": 1440,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
@@ -615,8 +616,7 @@
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
-      "2025-09-29": 1440,
-      "2025-09-28": 1440
+      "2025-09-29": 1440
     }
   },
   {
@@ -625,18 +625,19 @@
     "icon": "https://kanboard.rheinklang.events/assets/img/favicon.png",
     "slug": "kanboard",
     "status": "down",
-    "uptime": "59.38%",
+    "uptime": "59.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 958,
-    "timeDay": 22,
+    "time": 957,
+    "timeDay": 37,
     "timeWeek": 26,
-    "timeMonth": 39,
-    "timeYear": 972,
+    "timeMonth": 38,
+    "timeYear": 971,
     "dailyMinutesDown": {
-      "2026-09-27": 293,
+      "2026-09-28": 295,
+      "2026-09-27": 1440,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
@@ -999,8 +1000,7 @@
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
-      "2025-09-29": 1440,
-      "2025-09-28": 1440
+      "2025-09-29": 1440
     }
   }
 ]
