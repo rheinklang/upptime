@@ -8,7 +8,7 @@
     "uptime": "94.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.16%",
+    "uptimeMonth": "83.68%",
     "uptimeYear": "82.49%",
     "time": 745,
     "timeDay": 62,
@@ -133,16 +133,16 @@
     "url": "https://bio.rheinklang.events/links",
     "icon": "https://www.switchy.io/assets/favicons/favicon.ico",
     "slug": "bio-links",
-    "status": "degraded",
-    "uptime": "99.78%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.88%",
-    "time": 844,
-    "timeDay": 2719,
-    "timeWeek": 1656,
-    "timeMonth": 1136,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "84.24%",
+    "uptimeWeek": "96.00%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.83%",
+    "time": 845,
+    "timeDay": 2084,
+    "timeWeek": 1580,
+    "timeMonth": 1127,
     "timeYear": 852,
     "dailyMinutesDown": {
       "2025-11-19": 20,
@@ -156,7 +156,7 @@
       "2026-06-09": 167,
       "2026-07-22": 63,
       "2026-10-15": 177,
-      "2026-10-17": 1
+      "2026-10-17": 227
     }
   },
   {
@@ -253,7 +253,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-17": 534,
+      "2026-10-17": 760,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -637,7 +637,7 @@
     "timeMonth": 42,
     "timeYear": 804,
     "dailyMinutesDown": {
-      "2026-10-17": 534,
+      "2026-10-17": 761,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
