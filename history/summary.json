@@ -134,11 +134,11 @@
     "icon": "https://www.switchy.io/assets/favicons/favicon.ico",
     "slug": "bio-links",
     "status": "degraded",
-    "uptime": "99.77%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.76%",
+    "uptimeDay": "86.98%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "99.80%",
     "time": 854,
     "timeDay": 2536,
     "timeWeek": 1184,
@@ -157,7 +157,7 @@
       "2026-07-22": 63,
       "2026-10-15": 177,
       "2026-10-17": 227,
-      "2026-11-06": 1
+      "2026-11-06": 188
     }
   },
   {
@@ -243,7 +243,7 @@
     "icon": "https://assets.akaunting.com/site/img/logo/akaunting-logo.ico",
     "slug": "accounting",
     "status": "down",
-    "uptime": "40.50%",
+    "uptime": "40.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -254,7 +254,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-06": 176,
+      "2026-11-06": 363,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
@@ -638,7 +638,7 @@
     "timeMonth": 59,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2026-11-06": 176,
+      "2026-11-06": 363,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
