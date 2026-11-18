@@ -133,16 +133,16 @@
     "url": "https://bio.rheinklang.events/links",
     "icon": "https://www.switchy.io/assets/favicons/favicon.ico",
     "slug": "bio-links",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "87.54%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "99.71%",
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "74.77%",
+    "uptimeWeek": "96.40%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "99.67%",
     "time": 857,
-    "timeDay": 0,
-    "timeWeek": 884,
-    "timeMonth": 946,
+    "timeDay": 727,
+    "timeWeek": 862,
+    "timeMonth": 939,
     "timeYear": 870,
     "dailyMinutesDown": {
       "2025-11-19": 20,
@@ -158,7 +158,7 @@
       "2026-10-15": 177,
       "2026-10-17": 227,
       "2026-11-06": 471,
-      "2026-11-18": 179
+      "2026-11-18": 363
     }
   },
   {
@@ -255,7 +255,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-18": 416,
+      "2026-11-18": 600,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -628,7 +628,7 @@
     "icon": "https://kanboard.rheinklang.events/assets/img/favicon.png",
     "slug": "kanboard",
     "status": "down",
-    "uptime": "56.98%",
+    "uptime": "56.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -639,7 +639,7 @@
     "timeMonth": 59,
     "timeYear": 755,
     "dailyMinutesDown": {
-      "2026-11-18": 416,
+      "2026-11-18": 600,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
